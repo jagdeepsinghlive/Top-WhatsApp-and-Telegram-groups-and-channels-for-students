@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jagdeepsinghlive.github.io/Top-WhatsApp-and-Telegram-groups-and-channels-for-students/sitemap.xml
